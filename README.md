@@ -20,19 +20,19 @@ Full-stack city guide with authentication, filtering, comments, database integra
 
 **Node.js · Express · MySQL · JavaScript**
 
-[Repository](https://github.com/quttaj/zilina-city-guide)
+[Repository](https://github.com/quttaj/zilina-city-guide) · [Live Demo](https://zilina-city-guide.onrender.com/)
 
 ### Python Quiz
 Desktop quiz application built with Python and Tkinter with external API integration and score tracking.
 
 **Python · Tkinter · API integration · OOP**
 
-[Repository](https://github.com/quttaj/quiz-python)
+[Repository](https://github.com/quttaj/quiz-python) · [Browser Demo](https://viktorina-iva.poltavets200530.chatgpt.site/)
 
 ## Tech
 
 **Development:** JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · MySQL  
-**AI:** OpenAI API · AI-assisted development · prompt & workflow design  
+**AI:** OpenAI Responses API · AI vision workflows · AI integrations  
 **Product & Design:** Figma · Photoshop · Illustrator · Blender
 
 ## Currently exploring
