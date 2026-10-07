@@ -41,4 +41,4 @@ Building AI-powered products, automation workflows, and experimenting with diffe
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ivanna-poltavets/) · [Email](mailto:iv.poltavetss@gmail.com) · [Contra](https://contra.com/ivanna_poltavets_ci0twsjv/about)
+[LinkedIn](https://www.linkedin.com/in/ivanna-poltavets/) · [Email](mailto:iv.poltavetss@gmail.com) · [Contra](https://contra.com/ivanna_poltavets)
