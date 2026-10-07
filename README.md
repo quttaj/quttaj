@@ -1,16 +1,44 @@
-## Hi there 👋
+# Ivanna Poltavets
 
-<!--
-**quttaj/quttaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-powered Product Builder & Developer**
 
-Here are some ideas to get you started:
+I build practical digital products combining **AI, web development, product thinking, and visual design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on turning real problems into working prototypes and products — from AI integrations and application logic to interfaces, testing, and presentation.
+
+## Featured Projects
+
+### DeliveryCheck
+AI-powered delivery verification prototype that compares PDF delivery notes with product photos using a SKU-first workflow.
+
+**Next.js · TypeScript · OpenAI API · PDF processing · AI vision**
+
+[Repository](https://github.com/quttaj/delivery-check) · [Live Demo](https://delivery-check-gamma.vercel.app/)
+
+### Žilina City Guide
+Full-stack city guide with authentication, filtering, comments, database integration, and an admin panel.
+
+**Node.js · Express · MySQL · JavaScript**
+
+[Repository](https://github.com/quttaj/zilina-city-guide)
+
+### Python Quiz
+Desktop quiz application built with Python and Tkinter with external API integration and score tracking.
+
+**Python · Tkinter · API integration · OOP**
+
+[Repository](https://github.com/quttaj/quiz-python)
+
+## Tech
+
+**Development:** JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · MySQL  
+**AI:** OpenAI API · AI-assisted development · prompt & workflow design  
+**Product & Design:** Figma · Photoshop · Illustrator · Blender
+
+## Currently exploring
+
+Building AI-powered products, automation workflows, and experimenting with different AI models and providers.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ivanna-poltavets/) · [Email](mailto:iv.poltavetss@gmail.com) · [Contra](https://contra.com/ivanna_poltavets_ci0twsjv/about)
